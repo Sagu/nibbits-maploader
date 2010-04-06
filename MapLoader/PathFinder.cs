@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.IO;
 using Microsoft.Win32;
 using System.Windows.Forms;
-using Utility.ModifyRegistry;
 
 namespace Nibbler
 {

@@ -13,12 +13,12 @@
  * ***************************************/
 
 using System;
+using Microsoft.Win32;
+using System.Windows.Forms;
 // it's required for reading/writing into the registry:
-using Microsoft.Win32;      
 // and for the MessageBox function:
-using System.Windows.Forms; 
 
-namespace Utility.ModifyRegistry
+namespace Nibbler
 {
 	/// <summary>
 	/// An useful class to read/write/delete/count registry keys
